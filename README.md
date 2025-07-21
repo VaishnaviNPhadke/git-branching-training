@@ -1,4 +1,4 @@
 # git-branching-training
 Sample repo to learn Git branching and merging
-## Homepage Feature
-This is HomePage Updated.
+## LoginPage Feature
+This is LoginPage.
